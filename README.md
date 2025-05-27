@@ -15,7 +15,10 @@ This dashboard displays the trend of child mortality rates (newborns who died be
 - **Visualization type:** Line chart  
 - **Features:**  
   - One line per country (totalling 213 countries) showing the mortality rate trend over time  
-  - Dynamic country filter to explore individual country trends  
+  - Dynamic country filter to explore individual country trends
+ 
+The dashboard layout and user interface were designed in **Figma** to create a clean, modern, and aesthetically pleasing look, which was then imported into Tableau for graphing and interactivity.
+
 
 This dashboard provides insights into historical and recent changes in child mortality rates worldwide.
 
@@ -36,7 +39,10 @@ This dashboard presents a world map highlighting countries based on the five pil
 - **Visualization type:** Interactive map  
 - **Features:**  
   - Dynamic country filter  
-  - Reveals values for each of the five pillars per country  
+  - Reveals values for each of the five pillars per country
+ 
+The map dashboard was designed in **Figma** for a user-friendly and visually appealing layout before being imported into Tableau, combining elegant design with dynamic data exploration.
+
 
 This enables a comparative view of digital life quality factors across countries globally.
 
