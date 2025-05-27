@@ -61,8 +61,8 @@ The dashboard layout and user interface were designed in **Figma** to create a c
 
 ---
 
-## 3. Australian Millennium Development Goals Dashboard (1990-2015)
+## 4. Australian Millennium Development Goals Dashboard (1990-2015)
 
 
-<img width="859" alt="image" src="https://github.com/user-attachments/assets/2d6b5f4a-78da-47eb-b1f5-2259cee8ebad" />
+<img width="848" alt="image" src="https://github.com/user-attachments/assets/05f58d08-935e-4b12-ad7a-dd5417d6bab4" />
 
