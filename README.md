@@ -20,10 +20,15 @@ This dashboard presents a world map highlighting countries based on the five pil
  
 The map dashboard was designed in **Figma** for a user-friendly and visually appealing layout before being imported into Tableau, combining elegant design with dynamic data exploration.
 
+### Key Takeaways  
+- Western Europe and East Asia lead in digital infrastructure and access  
+- Developing nations face digital inequality, especially in internet quality  
+- Visual disparities reveal investment opportunities and underserved markets
+- 
 
-This enables a comparative view of digital life quality factors across countries globally.
 
-- **Digital Quality of Life Index:** Surfshark Digital Quality of Life Report
+## Data Sources  
+- [Surfshark Digital Quality of Life Index](https://surfshark.com/dql2023)
 
 
 
@@ -43,10 +48,14 @@ This dashboard displays the trend of child mortality rates (newborns who died be
 The dashboard layout and user interface were designed in **Figma** to create a clean, modern, and aesthetically pleasing look, which was then imported into Tableau for graphing and interactivity.
 
 
-This dashboard provides insights into historical and recent changes in child mortality rates worldwide.
-
+### Key Takeaways  
+- Massive global decline in child mortality post-1950  
+- Conflict and poverty linked to stagnation in some regions  
+- Clear correlation between development and health outcomes
 ## Data Sources
 
-- **Child Mortality Rate:** Gapminder Public Dataset (2015)  
+- **Child Mortality Rate:** Gapminder Public Dataset (2015)
+-  [Gapminder Child Mortality Dataset (2015)](https://www.gapminder.org/data/)  
+
 
 ---
