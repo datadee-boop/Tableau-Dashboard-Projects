@@ -28,6 +28,7 @@ The map dashboard was designed in **Figma** for a user-friendly and visually app
 
 
 ## Data Sources  
+**Data Source:** Surfshark Digital Quality of Life Report  
 - [Surfshark Digital Quality of Life Index](https://surfshark.com/dql2023)
 
 
