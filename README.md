@@ -24,7 +24,7 @@ The map dashboard was designed in **Figma** for a user-friendly and visually app
 - Western Europe and East Asia lead in digital infrastructure and access  
 - Developing nations face digital inequality, especially in internet quality  
 - Visual disparities reveal investment opportunities and underserved markets
-- 
+  
 
 
 ## Data Sources  
@@ -55,7 +55,7 @@ The dashboard layout and user interface were designed in **Figma** to create a c
 - Clear correlation between development and health outcomes
 ## Data Sources
 
-- **Child Mortality Rate:** Gapminder Public Dataset (2015)
+**Child Mortality Rate:** Gapminder Public Dataset (2015)
 -  [Gapminder Child Mortality Dataset (2015)](https://www.gapminder.org/data/)  
 
 
