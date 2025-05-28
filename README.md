@@ -66,3 +66,29 @@ The dashboard layout and user interface were designed in **Figma** to create a c
 
 <img width="848" alt="image" src="https://github.com/user-attachments/assets/05f58d08-935e-4b12-ad7a-dd5417d6bab4" />
 
+# Australian Millennium Development Goals Dashboard (1990–2015)
+
+This dashboard presents historical trends of key development indicators in Australia from 1990 to 2015. Users can dynamically toggle between six different metrics, each displayed as a single line chart that highlights the progress and challenges over 25 years.
+
+## Visualization type
+- Line chart (one metric displayed at a time)
+
+## Features
+- Dynamic toggle allowing selection of one of six indicators to display:
+  - Adolescent fertility rate (births per 1,000 women ages 15–19)
+  - AIDS estimated deaths (UNAIDS estimates)
+  - GDP per person employed (constant 2011 PPP $)
+  - GNI, Atlas method (current US$)
+  - Life expectancy at birth, total (years)
+  - Mortality rate, infant (per 1,000 live births)
+- Each graph shows Australia’s trend over the 25-year period, allowing focused analysis on specific development goals
+- Clean and intuitive user interface designed for easy exploration of progress and setbacks in each indicator
+
+## Key Takeaways
+- Significant improvements in life expectancy and reductions in infant and adolescent mortality rates
+- Economic indicators reflect gradual growth and resilience through global economic shifts
+- AIDS-related deaths show decline thanks to medical and social interventions
+- Toggle feature enables comprehensive understanding of multifaceted development progress
+
+## Data Sources
+- United Nations Millennium Development Goals Reports
